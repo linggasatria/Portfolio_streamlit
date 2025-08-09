@@ -1,4 +1,3 @@
-Portofolio Proyek Data Science
 Selamat datang di portofolio proyek data science saya. Repositori ini berisi berbagai proyek yang saya kerjakan, mulai dari analisis data hingga implementasi model machine learning dan sistem rekomendasi. Proyek-proyek ini dibuat untuk mendemonstrasikan keahlian saya dalam mengubah data menjadi wawasan dan solusi yang inovatif.
 
 🚀 Proyek yang Ada
